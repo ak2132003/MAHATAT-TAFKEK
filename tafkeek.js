@@ -5,8 +5,8 @@
 // @description  تنفيذ فائق السرعة لمهام محطة التفكيك حسب عدد العملات أو التكرارات المطلوبة
 // @author       Dr. Ahmed Khaled
 // @match        *://*.centurygames.com/*
-// @updateURL    https://raw.githubusercontent.com/ak2132003/hidden-points-collector/main/hidden-points-collector.user.js
-// @downloadURL  https://raw.githubusercontent.com/ak2132003/hidden-points-collector/main/hidden-points-collector.user.js
+// @updateURL    https://raw.githubusercontent.com/ak2132003/MAHATAT-TAFKEK/refs/heads/main/tafkeek.js
+// @downloadURL  https://raw.githubusercontent.com/ak2132003/MAHATAT-TAFKEK/refs/heads/main/tafkeek.js
 // @grant        unsafeWindow
 // @run-at       document-end
 // ==/UserScript==
