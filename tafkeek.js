@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         د.أحمد خالد | محطة التفكيك
-// @namespace    https://www.facebook.com/Dr.Ahmed.FamilyFarm
+// @namespace    http://tampermonkey.net/
 // @version      2.3
 // @description  تنفيذ فائق السرعة لمهام محطة التفكيك حسب عدد العملات أو التكرارات المطلوبة
 // @author       Dr Ahmed Khaled
